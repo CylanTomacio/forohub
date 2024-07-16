@@ -1,0 +1,1 @@
+ALTER TABLE topicos CHANGE fecha_de_cracion fecha_de_creacion date;
